@@ -1,0 +1,127 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(248, 249, 249);
+    width: 1440px;
+    height: 3013px;
+}
+h1{
+    font-size: 60px;
+    font-family: Chogokuboso Gothic;
+    float:left;
+    padding-top: 70px;
+    padding-right: 240px;
+    width: 300px;
+    height: 40px;
+}
+.pr{
+    width: 372px;
+    height: 510px;
+    padding-left: 100px;
+    padding-top: 100px;
+    float:left;
+}
+.up{
+    line-height: 0.2;
+    padding-left: 60px;
+    float:left;
+    width: 400px;
+}
+.suki{
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 300px;
+}
+.suki_name{
+    
+    padding-left: 100px;
+    float:left;
+
+}
+.gaku{
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+.huchi0{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 1060px;
+    height: 270px;
+    margin: 0px,130px;
+ 
+}
+.huchi{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 1060px;
+    height: 300px;
+    margin: 0px,130px;
+ 
+}
+.waku{
+    background-color: rgba(255, 255, 255, 0.888);
+    width: 1060px;
+    height: 4113px;
+    margin: 80px 190px;
+}
+.dai{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.naiyo{
+    font-size: 35px;
+    line-height: 0.2;
+    padding-left: 20px;
+
+}
+.web{
+    width: 1000px;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+.naiyo1{
+    font-size: 35px;
+    line-height: 0.2;
+    padding-left: 20px;
+    padding-top: 40px;
+
+}
+p{
+    font-family: Chogokuboso Gothic;
+    font-size: 40px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 12px;
+    padding-left: 40px;
+}
+
+
+body{
+    background: 
+      /*shape*/
+      linear-gradient(115deg, transparent 89%, #e8ddcb 0) -128px -96px,
+      linear-gradient(-115deg, transparent 89%, #cdb380 0) 22px -96px,
+      linear-gradient(-115deg, #036564 11%, transparent 0) -128px 54px,
+      linear-gradient(115deg, #033649 11%, transparent 0) 22px 54px,
+      
+      /*shape*/
+      linear-gradient(-25deg, #e8ddcb 11%, transparent 0) -128px -22px,
+      linear-gradient(25deg, transparent 89%, #cdb380 0) -128px 128px,
+      linear-gradient(25deg, #036564 11%, transparent 0) 22px -22px,
+      linear-gradient(-25deg, transparent 89%, #033649 0) 22px 128px,
+      /*shape*/
+      linear-gradient(-25deg, #e8ddcb 11%, transparent 0) -53px -96px,
+      linear-gradient(25deg, transparent 89%, #cdb380 0) -53px 54px,
+      linear-gradient(25deg, #036564 11%, transparent 0) 97px -96px,
+      linear-gradient(-25deg, transparent 89%, #033649 0) 97px 54px,
+      /*shape*/
+      linear-gradient(115deg, transparent 89%, #e8ddcb  0) -53px -21px,
+      linear-gradient(-115deg, #cdb380 11%, transparent 0) -53px 129px,
+      linear-gradient(-115deg, transparent 89%, #036564 0) 97px -21px,
+      linear-gradient(115deg, #033649 11%, transparent 0) 97px 129px;
+      
+    background-color: #fff;
+    background-size: 150px 150px;
+    background-repeat: repeat;
+  }
